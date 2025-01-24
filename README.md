@@ -25,10 +25,3 @@ I am a passionate developer with experience in building dynamic web applications
 - **Skills Section**: Highlighting my technical skills and tools.
 - **Contact Form**: Easy way to reach out for collaboration or inquiries.
 
-## Getting Started
-
-To get started with my portfolio, follow these steps:
-
-1. **Clone the Repository**:
-   ```bash
-   git clone https://github.com/yourusername/portfolio.git
