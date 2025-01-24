@@ -2,7 +2,7 @@
 
 Welcome to my Portfolio! This repository showcases my projects, skills, and experiences as a developer. It serves as a digital resume and a demonstration of my work.
 
-![Alt text](image_url)
+![Alt text](https://github.com/hayat-hussen/portfolio/blob/main/Screenshot%20(96).png)
 ## Table of Contents
 
 - [About Me](#about-me)
